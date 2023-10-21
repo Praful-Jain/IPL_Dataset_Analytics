@@ -3,7 +3,7 @@
 ### Installation
 #### Install python on ubuntu
 #### Clone the repo using the following command
-    git clone git@github.com:shivapittala19/IPL_dataset_analysis.git
+    git clone git@github.com:Praful-Jain/IPL_Dataset_Analytics
 #### Create a virtual environment 
     python3 -m venv name_of_evn 
 #### Activate the virtual environment
